@@ -1,0 +1,39 @@
+{
+
+  "source_file": "Optimized AT6 matrix.JPG",
+  "matrix_name": "Optimized AT6 matrix",
+  "image_width_px": 341,
+  "image_height_px": 256,
+  "channels": 1,
+  "pixel_format": "8-bit unsigned grayscale (uint8)",
+  "raw_encoding": "row-major, top-to-bottom, left-to-right, no header",
+  "raw_file": "Optimized_AT6_matrix_SEM_8bit.raw",
+  "lossless_reference_image": "Optimized_AT6_matrix_SEM_8bit.tiff",
+  "scale_bar": {
+    "label": "10 \u00b5m",
+    "estimated_length_px": 89,
+    "estimated_pixel_size_um_per_px": 0.11235955056179775,
+    "note": "Scale calibration estimated from the displayed scale bar; not original SEM acquisition metadata."
+  },
+  "instrumentation": {
+    "instrument_manufacturer": null,
+    "instrument_model": null,
+    "accelerating_voltage_kV": null,
+    "working_distance_mm": null,
+    "detector": null,
+    "magnification": null,
+    "vacuum_mode": null,
+    "spot_size": null,
+    "scan_mode": null
+  },
+  "provenance": {
+    "original_format": "JPEG",
+    "processing": [
+      "Converted to grayscale",
+      "Pixel values preserved from the supplied JPEG after JPEG decoding",
+      "Exported as headerless 8-bit RAW",
+      "Exported as lossless TIFF"
+    ],
+    "limitation": "Original SEM acquisition metadata and detector-level raw signal cannot be recovered from the JPEG."
+  }
+}

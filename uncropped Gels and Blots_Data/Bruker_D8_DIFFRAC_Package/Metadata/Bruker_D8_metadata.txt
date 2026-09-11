@@ -1,0 +1,36 @@
+BRUKER D8 / DIFFRAC IMPORT PACKAGE
+===================================
+
+Data source
+-----------
+Supplied XRD plot image. Three traces were digitized:
+1. ATM Mortar
+2. Granite Waste
+3. Metakaolin
+
+Reconstructed scan geometry
+---------------------------
+2theta start       : 16.4706 deg
+2theta end         : 80.7059 deg
+Number of points   : 365
+Step size          : 0.1764706 deg
+Scan mode          : Coupled theta/2theta (assumed from plotted powder-XRD context)
+Radiation          : Cu K-alpha (assumed)
+Lambda K-alpha1    : 1.5406 A
+Lambda K-alpha2    : 1.54439 A
+Lambda K-beta      : 1.39222 A
+Goniometer radius  : 217.5 mm (Bruker D8-compatible nominal value)
+
+Intensity
+---------
+The image contains no original detector counts. Intensities were reconstructed
+from pixel positions and scaled to a maximum of 10,000 pseudo-counts per pattern.
+Therefore the files are suitable for plotting/import and preliminary peak-position
+work, but NOT for quantitative intensity/Rietveld conclusions that require the
+original measurement data.
+
+File formats
+------------
+*.UXD  : Bruker ASCII-style scan file with Bruker-style metadata header.
+*.XY   : 2-column ASCII 2theta/intensity file. DIFFRAC/EVA supports ASCII XY.
+*.XYE  : 3-column ASCII 2theta/intensity/error file.

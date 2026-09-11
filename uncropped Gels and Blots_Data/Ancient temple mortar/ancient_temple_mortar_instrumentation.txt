@@ -1,0 +1,35 @@
+SEM INSTRUMENTATION / RECONSTRUCTION FILE
+===============================================
+
+Specimen name        : Ancient temple mortar
+Image modality       : Scanning Electron Microscopy (SEM) image
+Source image         : ancient temple mortar.JPG
+Source dimensions    : 340 x 256 pixels
+Source bit depth     : 8-bit/channel JPEG (RGB)
+Reconstructed output : 16-bit grayscale
+Output dimensions    : 340 x 256 pixels
+Raw data encoding    : unsigned 16-bit little-endian, row-major
+Raw file             : ancient_temple_mortar_reconstructed_16bit.raw
+TIFF file            : ancient_temple_mortar_reconstructed_16bit.tif
+
+Visible scale bar    : 10 µm
+Approx. scale-bar px : 105 pixels
+Approx. pixel size   : 0.09524 µm/pixel
+Approx. field width  : 32.38 µm
+
+ORIGINAL SEM PARAMETERS — NOT AVAILABLE FROM SUPPLIED JPEG
+-----------------------------------------------------------
+Manufacturer / model  : Not available
+Detector type         : Not available
+Accelerating voltage  : Not available
+Beam / probe current  : Not available
+Working distance      : Not available
+Chamber pressure      : Not available
+Magnification         : Not available
+Scan speed / dwell    : Not available
+Coating               : Not available
+Specimen mounting     : Not available
+Acquisition date      : Not available
+
+Scale calibration is approximate because it is inferred from the visible
+10 µm scale bar in the raster image.

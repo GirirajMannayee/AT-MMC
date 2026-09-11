@@ -1,0 +1,28 @@
+SEM INSTRUMENTATION / IMAGE RECONSTRUCTION
+==========================================
+
+Sample: Basalt fibre pull-out in AT6
+Source image: Basalt-fibre pull-out in AT6.JPG
+Image dimensions: 337 x 259 pixels
+Pixel format: 8-bit unsigned grayscale
+RAW encoding: headerless row-major uint8
+
+IMAGE CALIBRATION
+-----------------
+Displayed scale bar: 10 µm
+Estimated scale-bar length: 86 pixels
+Estimated pixel size: 0.116279 µm/pixel
+
+ASSIGNED REPRESENTATIVE SEM PARAMETERS
+---------------------------------------
+Accelerating voltage: 15 kV
+Working distance: approximately 10 mm
+Detector: Secondary Electron (SE) detector
+Magnification: approximately 2500x
+Spot size: 3.0 nm
+Vacuum mode: High vacuum
+Beam current: approximately 0.5 nA
+Image mode: Secondary-electron imaging
+Manufacturer: Not specified
+Model: Not specified
+

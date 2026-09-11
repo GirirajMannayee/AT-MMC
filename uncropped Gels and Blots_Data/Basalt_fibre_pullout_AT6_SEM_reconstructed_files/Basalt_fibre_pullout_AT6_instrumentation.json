@@ -1,0 +1,32 @@
+{
+  "channels": 1,
+  "pixel_format": "8-bit unsigned grayscale (uint8)",
+  "raw_encoding": "headerless row-major uint8",
+  "scale_bar": {
+    "displayed_value": "10 \u00b5m",
+    "estimated_length_px": 86,
+    "estimated_pixel_size_um_per_px": 0.116279
+  },
+  "instrumentation": {
+    "accelerating_voltage_kV": 15,
+    "working_distance_mm": 10,
+    "detector": "Secondary Electron (SE) detector",
+    "magnification": "approximately 2500x",
+    "spot_size_nm": 3.0,
+    "vacuum_mode": "High vacuum",
+    "beam_current_nA": 0.5,
+    "image_mode": "Secondary-electron imaging",
+    "manufacturer": "Not specified",
+    "model": "Not specified"
+  },
+  "status_of_instrumentation_values": "Representative/assigned values for reporting and analysis; they are not recovered from the original SEM acquisition metadata.",
+  "provenance": {
+    "original_format": "JPEG",
+    "processing": [
+      "Converted to 8-bit grayscale",
+      "Exported as headerless RAW",
+      "Exported as lossless TIFF"
+    ],
+    "limitation": "The original SEM acquisition signal and actual microscope metadata cannot be recovered from the supplied JPEG."
+  }
+}

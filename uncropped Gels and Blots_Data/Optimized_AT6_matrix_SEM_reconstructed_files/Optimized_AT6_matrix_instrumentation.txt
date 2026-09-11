@@ -1,0 +1,23 @@
+SEM INSTRUMENTATION / IMAGE RECONSTRUCTION FILE
+===============================================
+Sample/matrix: Optimized AT6 matrix
+Source image: Optimized AT6 matrix.JPG
+Image size: 341 x 256 pixels
+Pixel format: 8-bit unsigned grayscale
+RAW encoding: headerless row-major uint8
+Scale bar shown: 10 um
+Estimated scale-bar length: 89 px
+Estimated pixel size: 0.112360 um/px
+
+Instrument metadata
+-------------------
+Manufacturer: Not available
+Model: Not available
+Accelerating voltage: Not available
+Working distance: Not available
+Detector: Not available
+Magnification: Not available
+Vacuum mode: Not available
+Spot size: Not available
+
+

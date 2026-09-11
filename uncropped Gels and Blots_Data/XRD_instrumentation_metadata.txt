@@ -1,0 +1,23 @@
+XRD INSTRUMENTATION / ACQUISITION METADATA
+=============================================
+This metadata is reconstructed/assumed from the supplied figure.
+The original instrument configuration was not embedded in the image.
+
+Measurement type: Powder X-ray diffraction (XRD)
+Radiation: Cu K-alpha (assumed; wavelength 1.5406 Angstrom)
+Scan axis: 2theta
+Approximate displayed range: 16.1 to 80.7 degrees
+Step size of reconstructed data: approximately 0.1765 degree
+Intensity: relative/arbitrary units reconstructed from image
+Samples:
+  1. ATM Mortar
+  2. Granite Waste
+  3. Metakaolin
+
+Phase labels visible in the figure:
+  Q = Quartz
+  C = Calcite
+  F = Feldspar
+  M = Muscovite
+  K = Kaolinite
+
