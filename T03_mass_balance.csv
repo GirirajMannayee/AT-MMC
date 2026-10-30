@@ -1,0 +1,8 @@
+mix_id,sum_listed_solids_pct,closes_to_100,note
+C0,100.0,True,"OPC mass fraction not stated; C0 listed as sand = 100 % (unresolved, see docs/DATA_ISSUES.md)"
+AT1,100.0,True,
+AT2,100.0,True,
+AT3,100.0,True,
+AT4,100.0,True,
+AT5,100.0,True,
+AT6,100.0,True,

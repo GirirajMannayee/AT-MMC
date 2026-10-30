@@ -1,0 +1,12 @@
+property,density_kg_m3,water_absorption_pct,apparent_porosity_pct,sorptivity_mm_min05,compressive_MPa,flexural_MPa,splitting_tensile_MPa,fracture_toughness_MPa_m05,acid_5pct_28d,thermal_conductivity_W_mK,cte_1e6_per_C
+density_kg_m3,1.0,-0.25,-0.25,-0.25,0.25,0.25,0.25,0.25,0.25,-0.25,-0.25
+water_absorption_pct,-0.25,1.0,1.0,1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0
+apparent_porosity_pct,-0.25,1.0,1.0,1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0
+sorptivity_mm_min05,-0.25,1.0,1.0,1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0
+compressive_MPa,0.25,-1.0,-1.0,-1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0
+flexural_MPa,0.25,-1.0,-1.0,-1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0
+splitting_tensile_MPa,0.25,-1.0,-1.0,-1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0
+fracture_toughness_MPa_m05,0.25,-1.0,-1.0,-1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0
+acid_5pct_28d,0.25,-1.0,-1.0,-1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-1.0
+thermal_conductivity_W_mK,-0.25,1.0,1.0,1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0
+cte_1e6_per_C,-0.25,1.0,1.0,1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1.0,1.0

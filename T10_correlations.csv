@@ -1,0 +1,6 @@
+x,y,pearson_r,spearman_rho
+compressive_MPa,splitting_tensile_MPa,0.9981536450416872,1.0
+water_absorption_pct,apparent_porosity_pct,0.9996772093847563,1.0
+apparent_porosity_pct,thermal_conductivity_W_mK,0.9979970180121703,1.0
+fracture_toughness_MPa_m05,sorptivity_mm_min05,-0.9750193070207251,-1.0
+density_kg_m3,compressive_MPa,-0.2546206427715173,0.25

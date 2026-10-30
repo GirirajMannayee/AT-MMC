@@ -1,0 +1,8 @@
+mix_id,dominated_by
+C0,"AT1, AT2, AT3, AT4, AT5, AT6"
+AT1,"AT2, AT3, AT4, AT5, AT6"
+AT2,"AT3, AT4, AT5, AT6"
+AT3,"AT4, AT5, AT6"
+AT4,"AT5, AT6"
+AT5,AT6
+AT6,none (non-dominated)
