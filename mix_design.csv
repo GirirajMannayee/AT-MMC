@@ -1,0 +1,8 @@
+mix_id,binder_system,lime_pct,metakaolin_pct,granite_waste_pct,sand_pct,basalt_fibre_pct,w_b_ratio
+C0,OPC,,,0,100.0,0.0,0.4
+AT1,Lime-MK,20.0,10.0,20,50.0,0.0,0.42
+AT2,Lime-MK,20.0,10.0,20,49.5,0.5,0.42
+AT3,Lime-MK,20.0,10.0,20,49.0,1.0,0.42
+AT4,Lime-MK,20.0,10.0,20,48.5,1.5,0.42
+AT5,Lime-MK,25.0,15.0,25,34.0,1.0,0.4
+AT6,Lime-MK,25.0,15.0,25,33.5,1.5,0.4

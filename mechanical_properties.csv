@@ -1,0 +1,8 @@
+mix_id,compressive_MPa,flexural_MPa,splitting_tensile_MPa,fracture_toughness_MPa_m05
+C0,38.6,6.12,3.21,1.12
+AT1,41.8,6.85,3.62,1.45
+AT2,45.7,7.32,3.91,1.86
+AT3,48.9,7.96,4.28,2.08
+AT4,50.1,8.21,4.42,2.21
+AT5,52.6,8.76,4.71,2.29
+AT6,55.4,9.28,4.95,2.35

@@ -1,0 +1,4 @@
+system,mix_id,gwp_kgCO2eq_per_kg,embodied_energy_MJ_per_kg,primary_energy_MJ_per_kg,waste_utilization_pct_unverified
+OPC mortar (C0),C0,0.462,3.21,4.09,12
+Lime-MK matrix (AT3),AT3,0.298,2.18,2.76,48
+AT-MMC (AT6),AT6,0.249,1.72,2.21,62
